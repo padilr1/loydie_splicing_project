@@ -1,0 +1,7 @@
+name: "Loydie Splicing Project"
+navbar:
+  title: "Loydie Splicing Project"
+  left:
+    - text: "CCMS"
+      href: index.html
+output_dir: "docs"
