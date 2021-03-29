@@ -52,7 +52,7 @@ grid::grid.raster( tiff::readTIFF( "DAVID_sf3_dotplot_SE_01.tiff") )
 grid::grid.raster( tiff::readTIFF( "DAVID_sf3_dotplot_RI_01.tiff") )
 ```
  
-# 'Nucleotide Binding' genes for RI FDR < 0.1
+# 'RNA binding' genes for RI FDR < 0.1
  <table>
   <tr>
     <td><img src="nucleotide_binding.png"></td>
