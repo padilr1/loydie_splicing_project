@@ -4,4 +4,6 @@ navbar:
   left:
     - text: "CCMS"
       href: index.html
+    - text: "SF3B4 vs SF3B1"
+      href: sf3.html
 output_dir: "docs"
